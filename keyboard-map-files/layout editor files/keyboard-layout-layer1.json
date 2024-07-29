@@ -1,0 +1,240 @@
+[
+  {
+    "backcolor": "#949494",
+    "plate": true
+  },
+  [
+    {
+      "c": "#0bbf1f",
+      "a": 7,
+      "fa": [
+        1
+      ]
+    },
+    "CANCEL",
+    {
+      "c": "#b51010"
+    },
+    "PRIMARY",
+    "PISTOL",
+    "KNIFE",
+    "NADES",
+    "BOMB",
+    {
+      "c": "#cccccc"
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "w": 2
+    },
+    ""
+  ],
+  [
+    {
+      "c": "#0bbf1f",
+      "f": 3,
+      "w2": 1.5
+    },
+    "SCORE INFO",
+    {
+      "x": 0.5,
+      "c": "#cc8b0a"
+    },
+    "LAST INV",
+    {
+      "c": "#4588d1",
+      "f": 3
+    },
+    "FWD",
+    {
+      "c": "#cc8b0a"
+    },
+    "USE",
+    "RELOAD",
+    {
+      "c": "#cccccc"
+    },
+    "",
+    "",
+    "",
+    {
+      "c": "#ff85f0"
+    },
+    "\n\n\n\nPRAC",
+    "\n\n\n\nPRAC",
+    {
+      "c": "#cccccc"
+    },
+    "",
+    {
+      "a": 4,
+      "f2": 0
+    },
+    "{\n\n\n\n\n\n[",
+    "}\n\n\n\n\n\n]",
+    {
+      "c": "#0bbf1f",
+      "a": 7,
+      "w": 1.5
+    },
+    "CONSOLE"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "a": 4,
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "c": "#4588d1",
+      "a": 7
+    },
+    "LEFT",
+    "BACK",
+    "RIGHT",
+    {
+      "c": "#cc8b0a",
+      "fa": [
+        1
+      ]
+    },
+    "INSPECT",
+    "DROP EQUIPD",
+    {
+      "c": "#0bbf1f",
+      "fa": [
+        2
+      ]
+    },
+    "RADAR SCALE",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3
+    },
+    "J",
+    {
+      "f": 3
+    },
+    "K",
+    {
+      "f": 3
+    },
+    "L",
+    {
+      "a": 4,
+      "f": 3
+    },
+    ";\n\n\n\n\n\n:",
+    {
+      "f": 3
+    },
+    "\"\n\n\n\n\n\n'",
+    {
+      "c": "#0bbf1f",
+      "a": 7,
+      "f": 3,
+      "w": 2.25
+    },
+    "TEAM CHAT"
+  ],
+  [
+    {
+      "c": "#4588d1",
+      "f": 3,
+      "w": 2.25
+    },
+    "WALK",
+    {
+      "c": "#b51010",
+      "fa": [
+        1
+      ]
+    },
+    "FLASH\n\n\n\n+ BUY",
+    "MOLLY\n\n\n\n+ BUY",
+    "SMOKE\n\n\n\n+ BUY",
+    "FRAG\n\n\n\n+ BUY",
+    {
+      "c": "#0bbf1f",
+      "f": 3
+    },
+    "BUY",
+    {
+      "c": "#cccccc"
+    },
+    "",
+    "",
+    {
+      "c": "#406c99",
+      "f": 1
+    },
+    "RUNNING JUMP THROW",
+    {
+      "f": 2
+    },
+    "JUMP THROW",
+    {
+      "c": "#cccccc",
+      "f": 3
+    },
+    "",
+    {
+      "c": "#7ae9ff",
+      "w": 2.75
+    },
+    "SHIFT BINDS MODIFIER"
+  ],
+  [
+    {
+      "c": "#4588d1",
+      "w": 1.25
+    },
+    "DUCK",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "c": "#4588d1",
+      "a": 7,
+      "w": 6.25
+    },
+    "JUMP",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "c": "#7ae9ff",
+      "a": 7,
+      "w": 1.25
+    },
+    "FN",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "w": 1.25
+    },
+    "RCtrl"
+  ]
+]
